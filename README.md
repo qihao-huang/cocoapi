@@ -1,3 +1,9 @@
+```
+pip uninstall pycocotools
+pip install git+https://github.com/qihao-huang/cocoapi.git#"egg=pycocotools&subdirectory=PythonAPI"
+
+```
+
 # YouTubeVIS data loading and evaluation
 ## Introduction
 
